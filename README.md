@@ -1,1 +1,1 @@
-# Design-Patterns-Singleton
+# Design Patterns: Singleton in C#
